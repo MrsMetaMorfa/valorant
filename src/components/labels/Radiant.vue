@@ -1,0 +1,157 @@
+<template>
+  <svg class="label" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.52 76.44">
+    <g id="label-0">
+      <polygon class="d d-0" points="37.57 76.44 32.39 76.44 32.39 71.26 37.57 76.44" style="fill: #e2deb5"/>
+      <polygon class="d d-1" points="31.09 76.44 25.91 71.26 31.09 71.26 31.09 76.44" style="fill: #e2deb5"/>
+      <polygon class="d d-1" points="31.09 76.44 25.91 76.44 25.91 71.26 31.09 76.44" style="fill: #f6f5dc"/>
+      <rect class="d d-2" x="19.43" y="71.26" width="5.18" height="5.18" style="fill: #f6f5dc"/>
+      <polygon class="d d-3" points="18.13 76.44 12.96 71.26 18.13 71.26 18.13 76.44" style="fill: #f6f5dc"/>
+    </g>
+    <g id="label-1">
+      <polygon class="d d-2" points="31.09 69.96 25.91 69.96 25.91 64.78 31.09 69.96" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="24.61 69.96 19.43 64.78 24.61 64.78 24.61 69.96" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="24.61 69.96 19.43 69.96 19.43 64.78 24.61 69.96" style="fill: #f6f5dc"/>
+      <rect class="d d-4" x="12.96" y="64.78" width="5.18" height="5.18" style="fill: #f6f5dc"/>
+      <polygon class="d d-5" points="11.66 69.96 6.48 64.78 11.66 64.78 11.66 69.96" style="fill: #f6f5dc"/>
+    </g>
+    <g id="label-2">
+      <polygon class="d d-0" points="45.35 63.48 45.35 58.3 50.52 58.3 45.35 63.48" style="fill: #f3edd2"/>
+      <rect class="d d-1" x="38.87" y="58.3" width="5.18" height="5.18" style="fill: #f3edd2"/>
+      <polygon class="d d-2" points="37.57 58.3 37.57 63.48 32.39 63.48 37.57 58.3" style="fill: #f3edd2"/>
+      <polygon class="d d-2" points="32.39 63.48 32.39 58.3 37.57 58.3 32.39 63.48" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="31.09 58.3 31.09 63.48 25.91 63.48 31.09 58.3" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="25.91 63.48 25.91 58.3 31.09 58.3 25.91 63.48" style="fill: #161a19"/>
+      <polygon class="d d-4" points="24.61 63.48 19.43 58.3 24.61 58.3 24.61 63.48" style="fill: #161a19"/>
+      <polygon class="d d-4" points="24.61 63.48 19.43 63.48 19.43 58.3 24.61 63.48" style="fill: #e2deb5"/>
+      <polygon class="d d-5" points="18.13 63.48 12.96 58.3 18.13 58.3 18.13 63.48" style="fill: #e2deb5"/>
+      <polygon class="d d-5" points="18.13 63.48 12.96 63.48 12.96 58.3 18.13 63.48" style="fill: #f6f5dc"/>
+      <rect class="d d-6" x="6.48" y="58.3" width="5.18" height="5.18" style="fill: #f6f5dc"/>
+      <polygon class="d d-7" points="5.18 63.48 0 58.3 5.18 58.3 5.18 63.48" style="fill: #f6f5dc"/>
+    </g>
+    <g id="label-3">
+      <rect class="d d-1" x="45.35" y="51.82" width="5.18" height="5.18" style="fill: #f3edd2"/>
+      <polygon class="d d-2" points="44.05 51.82 44.05 57 38.87 57 44.05 51.82" style="fill: #f3edd2"/>
+      <polygon class="d d-2" points="38.87 57 38.87 51.82 44.05 51.82 38.87 57" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="37.57 51.82 37.57 57 32.39 57 37.57 51.82" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="32.39 57 32.39 51.82 37.57 51.82 32.39 57" style="fill: #161a19"/>
+      <polygon class="d d-4" points="31.09 57 25.91 57 31.09 51.82 31.09 57" style="fill: #161a19"/>
+      <polygon class="d d-4" points="25.91 57 25.91 51.82 31.09 51.82 25.91 57" style="fill: #747a6f"/>
+      <polygon class="d d-5" points="24.61 57 19.43 51.82 24.61 51.82 24.61 57" style="fill: #616160"/>
+      <polygon class="d d-5" points="24.61 57 19.43 57 19.43 51.82 24.61 57" style="fill: #161a19"/>
+      <polygon class="d d-6" points="18.13 57 12.96 51.82 18.13 51.82 18.13 57" style="fill: #161a19"/>
+      <polygon class="d d-6" points="18.13 57 12.96 57 12.96 51.82 18.13 57" style="fill: #e2deb5"/>
+      <polygon class="d d-7" points="11.66 57 6.48 51.82 11.66 51.82 11.66 57" style="fill: #e2deb5"/>
+      <polygon class="d d-7" points="11.66 57 6.48 57 6.48 51.82 11.66 57" style="fill: #f6f5dc"/>
+      <rect class="d d-8" y="51.82" width="5.18" height="5.18" style="fill: #f6f5dc"/>
+    </g>
+    <g id="label-4">
+      <polygon class="d d-2" points="50.52 45.35 50.52 50.52 45.35 50.52 50.52 45.35" style="fill: #f3edd2"/>
+      <polygon class="d d-2" points="45.35 50.52 45.35 45.35 50.52 45.35 45.35 50.52" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="44.05 45.35 44.05 50.52 38.87 50.52 44.05 45.35" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="38.87 50.52 38.87 45.35 44.05 45.35 38.87 50.52" style="fill: #161a19"/>
+      <polygon class="d d-4" points="37.57 50.52 32.39 50.52 37.57 45.35 37.57 50.52" style="fill: #161a19"/>
+      <polygon class="d d-4" points="32.39 50.52 32.39 45.35 37.57 45.35 32.39 50.52" style="fill: #747a6f"/>
+      <polygon class="d d-5" points="31.09 45.35 31.09 50.52 25.91 50.52 31.09 45.35" style="fill: #747a6f"/>
+      <polygon class="d d-5" points="25.91 50.52 25.91 45.35 31.09 45.35 25.91 50.52" style="fill: #eeeeb4"/>
+      <polygon class="d d-6" points="24.61 50.52 19.43 45.35 24.61 45.35 24.61 50.52" style="fill: #bc7b20"/>
+      <polygon class="d d-6" points="19.43 50.52 19.43 45.35 24.61 50.52 19.43 50.52" style="fill: #616160"/>
+      <polygon class="d d-7" points="18.13 50.52 12.96 45.35 18.13 45.35 18.13 50.52" style="fill: #616160"/>
+      <polygon class="d d-7" points="18.13 50.52 12.96 50.52 12.96 45.35 18.13 50.52" style="fill: #161a19"/>
+      <polygon class="d d-8" points="11.66 50.52 6.48 45.35 11.66 45.35 11.66 50.52" style="fill: #161a19"/>
+      <polygon class="d d-8" points="11.66 50.52 6.48 50.52 6.48 45.35 11.66 50.52" style="fill: #e2deb5"/>
+      <polygon class="d d-9" points="5.18 50.52 0 45.35 5.18 45.35 5.18 50.52" style="fill: #e2deb5"/>
+      <polygon class="d d-9" points="5.18 50.52 0 50.52 0 45.35 5.18 50.52" style="fill: #f6f5dc"/>
+    </g>
+    <g id="label-5">
+      <polygon class="d d-3" points="50.52 38.87 50.52 44.05 45.35 44.05 50.52 38.87" style="fill: #e2deb5"/>
+      <polygon class="d d-3" points="45.35 44.05 45.35 38.87 50.52 38.87 45.35 44.05" style="fill: #161a19"/>
+      <polygon class="d d-4" points="44.05 44.05 38.87 44.05 44.05 38.87 44.05 44.05" style="fill: #161a19"/>
+      <polygon class="d d-4" points="38.87 44.05 38.87 38.87 44.05 38.87 38.87 44.05" style="fill: #747a6f"/>
+      <polygon class="d d-5" points="37.57 38.87 37.57 44.05 32.39 44.05 37.57 38.87" style="fill: #747a6f"/>
+      <polygon class="d d-5" points="32.39 44.05 32.39 38.87 37.57 38.87 32.39 44.05" style="fill: #eeeeb4"/>
+      <rect class="d d-6" x="25.91" y="38.87" width="5.18" height="5.18" style="fill: #eeeeb4"/>
+      <rect class="d d-7" x="19.43" y="38.87" width="5.18" height="5.18" style="fill: #bc7b20"/>
+      <polygon class="d d-8" points="18.13 44.05 12.96 38.87 18.13 38.87 18.13 44.05" style="fill: #f3a444"/>
+      <polygon class="d d-8" points="12.96 44.05 12.96 38.87 18.13 44.05 12.96 44.05" style="fill: #616160"/>
+      <polygon class="d d-9" points="11.66 44.05 6.48 38.87 11.66 38.87 11.66 44.05" style="fill: #616160"/>
+      <polygon class="d d-9" points="11.66 44.05 6.48 44.05 6.48 38.87 11.66 44.05" style="fill: #161a19"/>
+      <polygon class="d d-10" points="5.18 44.05 0 38.87 5.18 38.87 5.18 44.05" style="fill: #161a19"/>
+      <polygon class="d d-10" points="5.18 44.05 0 44.05 0 38.87 5.18 44.05" style="fill: #e2deb5"/>
+    </g>
+    <g id="label-6">
+      <rect class="d d-4" x="45.35" y="32.39" width="5.18" height="5.18" style="fill: #161a19"/>
+      <polygon class="d d-5" points="44.05 32.39 44.05 37.57 38.87 37.57 44.05 32.39" style="fill: #747a6f"/>
+      <polygon class="d d-5" points="38.87 37.57 38.87 32.39 44.05 32.39 38.87 37.57" style="fill: #575656"/>
+      <rect class="d d-6" x="32.39" y="32.39" width="5.18" height="5.18" style="fill: #eeeeb4"/>
+      <polygon class="d d-7" points="31.09 32.39 31.09 37.57 25.91 37.57 31.09 32.39" style="fill: #eeeeb4"/>
+      <polygon class="d d-7" points="25.91 37.57 25.91 32.39 31.09 32.39 25.91 37.57" style="fill: #747a6f"/>
+      <polygon class="d d-8" points="19.43 32.39 24.61 32.39 24.61 37.57 19.43 32.39" style="fill: #616160"/>
+      <polygon class="d d-8" points="19.43 37.57 19.43 32.39 24.61 37.57 19.43 37.57" style="fill: #bc7b20"/>
+      <rect class="d d-9" x="12.96" y="32.39" width="5.18" height="5.18" style="fill: #f3a444"/>
+      <polygon class="d d-10" points="6.48 37.57 6.48 32.39 11.66 37.57 6.48 37.57" style="fill: #f3a444"/>
+      <polygon class="d d-10" points="6.48 32.39 11.66 32.39 11.66 37.57 6.48 32.39" style="fill: #474747"/>
+      <rect class="d d-11" y="32.39" width="5.18" height="5.18" style="fill: #161a19"/>
+    </g>
+    <g id="label-7">
+      <polygon class="d d-5" points="50.52 31.09 45.35 31.09 45.35 25.91 50.52 31.09" style="fill: #161a19"/>
+      <polygon class="d d-6" points="44.05 31.09 38.87 25.91 44.05 25.91 44.05 31.09" style="fill: #161a19"/>
+      <polygon class="d d-6" points="38.87 31.09 38.87 25.91 44.05 31.09 38.87 31.09" style="fill: #747a6f"/>
+      <polygon class="d d-7" points="37.57 25.91 37.57 31.09 32.39 31.09 37.57 25.91" style="fill: #eeeeb4"/>
+      <polygon class="d d-7" points="32.39 31.09 32.39 25.91 37.57 25.91 32.39 31.09" style="fill: #747a6f"/>
+      <polygon class="d d-8" points="31.09 25.91 31.09 31.09 25.91 31.09 31.09 25.91" style="fill: #747a6f"/>
+      <polygon class="d d-8" points="25.91 25.91 31.09 25.91 25.91 31.09 25.91 25.91" style="fill: #edeebc"/>
+      <polygon class="d d-9" points="24.61 25.91 24.61 31.09 19.43 25.91 24.61 25.91" style="fill: #f3a444"/>
+      <polygon class="d d-9" points="19.43 31.09 19.43 25.91 24.61 31.09 19.43 31.09" style="fill: #616160"/>
+      <polygon class="d d-10" points="12.96 25.91 18.13 25.91 18.13 31.09 12.96 25.91" style="fill: #616160"/>
+      <polygon class="d d-10" points="12.96 31.09 12.96 25.91 18.13 31.09 12.96 31.09" style="fill: #f3a444"/>
+      <polygon class="d d-11" points="11.66 25.91 11.66 31.09 6.48 31.09 11.66 25.91" style="fill: #616160"/>
+      <polygon class="d d-11" points="6.48 31.09 6.48 25.91 11.66 25.91 6.48 31.09" style="fill: #161a19"/>
+      <polygon class="d d-12" points="5.18 31.09 0 31.09 5.18 25.91 5.18 31.09" style="fill: #161a19"/>
+    </g>
+    <g id="label-8">
+      <polygon class="d d-7" points="44.05 24.61 38.87 24.61 38.87 19.43 44.05 24.61" style="fill: #161a19"/>
+      <polygon class="d d-8" points="37.57 24.61 32.39 19.43 37.57 19.43 37.57 24.61" style="fill: #161a19"/>
+      <polygon class="d d-8" points="37.57 24.61 32.39 24.61 32.39 19.43 37.57 24.61" style="fill: #747a6f"/>
+      <polygon class="d d-9" points="25.91 19.43 31.09 19.43 31.09 24.61 25.91 19.43" style="fill: #747a6f"/>
+      <polygon class="d d-9" points="31.09 24.61 25.91 24.61 25.91 19.43 31.09 24.61" style="fill: #edeebc"/>
+      <polygon class="d d-10" points="24.61 24.61 19.43 24.61 24.61 19.43 24.61 24.61" style="fill: #f3a444"/>
+      <polygon class="d d-10" points="19.43 24.61 19.43 19.43 24.61 19.43 19.43 24.61" style="fill: #616160"/>
+      <polygon class="d d-11" points="18.13 19.43 18.13 24.61 12.96 24.61 18.13 19.43" style="fill: #616160"/>
+      <polygon class="d d-11" points="12.96 24.61 12.96 19.43 18.13 19.43 12.96 24.61" style="fill: #161a19"/>
+      <polygon class="d d-12" points="11.66 24.61 6.48 24.61 11.66 19.43 11.66 24.61" style="fill: #161a19"/>
+    </g>
+    <g id="label-9">
+      <polygon class="d d-9" points="37.57 12.96 37.57 18.13 32.39 12.96 37.57 12.96" style="fill: #f2f2f2"/>
+      <polygon class="d d-9" points="37.57 18.13 32.39 18.13 32.39 12.96 37.57 18.13" style="fill: #161a19"/>
+      <polygon class="d d-10" points="31.09 18.13 25.91 12.96 31.09 12.96 31.09 18.13" style="fill: #161a19"/>
+      <polygon class="d d-10" points="31.09 18.13 25.91 18.13 25.91 12.96 31.09 18.13" style="fill: #f2f2f2"/>
+      <polygon class="d d-11" points="24.61 18.13 19.43 18.13 24.61 12.96 24.61 18.13" style="fill: #d8d8d8"/>
+      <polygon class="d d-11" points="19.43 18.13 19.43 12.96 24.61 12.96 19.43 18.13" style="fill: #161a19"/>
+      <polygon class="d d-12" points="18.13 18.13 12.96 18.13 18.13 12.96 18.13 18.13" style="fill: #161a19"/>
+      <polygon class="d d-12" points="12.96 12.96 18.13 12.96 12.96 18.13 12.96 12.96" style="fill: #d8d8d8"/>
+    </g>
+    <g id="label-10">
+      <polygon class="d d-10" points="32.39 11.66 32.39 6.48 37.57 11.66 32.39 11.66" style="fill: #f2f2f2"/>
+      <polygon class="d d-11" points="31.09 6.48 31.09 11.66 25.91 6.48 31.09 6.48" style="fill: #f2f2f2"/>
+      <polygon class="d d-11" points="31.09 11.66 25.91 11.66 25.91 6.48 31.09 11.66" style="fill: #161a19"/>
+      <polygon class="d d-12" points="24.61 11.66 19.43 11.66 24.61 6.48 24.61 11.66" style="fill: #161a19"/>
+      <polygon class="d d-12" points="19.43 6.48 24.61 6.48 19.43 11.66 19.43 6.48" style="fill: #d8d8d8"/>
+      <polygon class="d d-13" points="18.13 11.66 12.96 11.66 18.13 6.48 18.13 11.66" style="fill: #d8d8d8"/>
+    </g>
+    <g id="label-12">
+      <polygon class="d d-12" points="25.91 5.18 25.91 0 31.09 5.18 25.91 5.18" style="fill: #f2f2f2"/>
+      <polygon class="d d-13" points="24.61 5.18 19.43 5.18 24.61 0 24.61 5.18" style="fill: #d8d8d8"/>
+    </g>
+  </svg>
+</template>
+
+<script>
+
+export default {
+  name: "Radiant"
+}
+</script>
+
+<style lang="scss">
+
+</style>

@@ -1,0 +1,9 @@
+@import "partials/reset";
+@import "partials/variables";
+@import "partials/mixins";
+@import "partials/animations";
+@import "partials/base";
+
+// Pages
+@import "pages/index";
+@import "pages/dashboard";
